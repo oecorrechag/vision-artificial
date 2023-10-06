@@ -1,5 +1,5 @@
 
-# cursos_universidad
+# Vision artificial
 
 By: oscar
 
